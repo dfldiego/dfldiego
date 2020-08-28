@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**dfldiego/dfldiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Diego Longo. I am an advanced student from UTN-FRM in Programming, with a special interest in web development.
 
-Here are some ideas to get you started:
+```javascript
+let dfldiego = {
+    pronouns: "he" | "him",
+    code: ["html", "css3", "Javascript", "Java"],
+    frontend: ["React","vueJS"],
+    backend: [{ Node: { framework: "ExpressJS", ORM: "Sequelize" } }, "PHP"],
+    templateEngines: ["pug"],
+    databases: ["MySQL"]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dfldiego)](https://github.com/anuraghazra/github-readme-stats)
