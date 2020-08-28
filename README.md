@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfldiego" alt="dfldiego" /> </p>
 
-- 💬 Ask me about **HTML, CSS, Javascript**
-
 - 📫 How to reach me **dfl.diego92@gmail.com**
 
 <p align="center">
