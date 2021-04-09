@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-diegolongo-blue)](https://www.linkedin.com/in/diego-longo-a9b78b99/)
 [![](https://img.shields.io/badge/Gmail-dfl.diego92%40gmail.com-red)](mailto:dfl.diego92@gmail.com)
 
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></p><p><img align="left" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfldiego&layout=compact&hide=html" alt="dfldiego" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dfldiego&show_icons=true" alt="dfldiego" /></p>
