@@ -11,10 +11,10 @@
 ```javascript
 let dfldiego = {
     pronouns: "he" | "him",
-    code: ["html", "css3", "Javascript", "Java"],
-    frontend: ["React","vueJS"],
-    backend: [{ Node: { framework: "ExpressJS", ORM: "Sequelize" } }, "PHP"],
-    templateEngines: ["pug"],
-    databases: ["MySQL"]
+    code: ["html", "css3", "Javascript","Typescript"],
+    frontend: ["React","VueJS","Angular"],
+    backend: [{ Node: { framework: "ExpressJS", ORM: {"Sequelize","Mongoose" } } }],
+    global state management for JS Apps: ["Redux","NgRx"],
+    databases: ["MySQL", "MongoDB"]
 }
 ```
